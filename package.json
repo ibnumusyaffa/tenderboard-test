@@ -1,0 +1,23 @@
+{
+  "name": "phonetic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "type": "module",
+  "scripts": {
+    "start": "tsx main.ts",
+    "test": "tsx --test main.test.ts"
+  },
+  "keywords": [
+    "tenderboard",
+    "case-study",
+    "quiz"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "tsx": "^4.21.0",
+    "typescript": "^5.7.2"
+  }
+}
